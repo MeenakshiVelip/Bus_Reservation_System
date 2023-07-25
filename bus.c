@@ -100,7 +100,7 @@ int choice;
 				break;
 			case 3:addroute();
 			       break;
-			default: printf("\n wrong choice");
+			default: printf("\n Thank You");
 		}
 	}while(choice!=5);
 }
